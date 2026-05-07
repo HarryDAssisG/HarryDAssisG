@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor PHP | Graduando em Engenharia da Computação
 
-Sou um Desenvolvedor Full Stack focado em criar soluções eficientes. Atualmente, atuo no **Ministério Público**, desenvolvendo sistemas com PHP e CodeIgniter.
+Sou um Desenvolvedor Full Stack focado em criar soluções eficientes. Atualmente, atuo no **Ministério Público**, desenvolvendo e mantendo sistemas com PHP e CodeIgniter, focando em código limpo e interfaces funcionais.
 
 ---
 
@@ -27,6 +27,8 @@ Sou um Desenvolvedor Full Stack focado em criar soluções eficientes. Atualment
 ### 💼 Experiência Profissional
 
 * **Ministério Público** | *Estagiário de Desenvolvimento de Software* (Abr 2025 - Atual)
+    * Desenvolvimento backend com PHP, CodeIgniter e MySQL.
+    * Implementação de interfaces com Bootstrap e JavaScript.
 * **MTPREV** | *Estagiário de Suporte Técnico e Redes* (Dez 2024 - Abr 2025)
 * **L3A Instalações** | *Assistente Administrativo* (2019 - 2024)
 
@@ -35,17 +37,17 @@ Sou um Desenvolvedor Full Stack focado em criar soluções eficientes. Atualment
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarryDAssisG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Harry" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDAssisG&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarryDAssisG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Harry" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDAssisG&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryDAssisG&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
