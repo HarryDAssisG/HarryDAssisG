@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor PHP | Graduando em Engenharia da Computação
 
-Sou um Desenvolvedor Full Stack focado em criar soluções eficientes. Atualmente, atuo no **Ministério Público**, desenvolvendo e mantendo sistemas com PHP e CodeIgniter, focando em código limpo e interfaces funcionais.
+Sou um Desenvolvedor Full Stack focado em criar soluções eficientes e escaláveis. Atualmente, atuo como estagiário de desenvolvimento de software no **Ministério Público**, onde trabalho com PHP e CodeIgniter para transformar requisitos em sistemas funcionais.
 
 ---
 
@@ -22,31 +22,36 @@ Sou um Desenvolvedor Full Stack focado em criar soluções eficientes. Atualment
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+**Ferramentas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ---
 
 ### 💼 Experiência Profissional
 
 * **Ministério Público** | *Estagiário de Desenvolvimento de Software* (Abr 2025 - Atual)
-    * Desenvolvimento backend com PHP, CodeIgniter e MySQL.
-    * Implementação de interfaces com Bootstrap e JavaScript.
-* **MTPREV** | *Estagiário de Suporte Técnico e Redes* (Dez 2024 - Abr 2025)
+    * Desenvolvimento backend utilizando PHP e CodeIgniter.
+    * Manutenção de bancos MySQL e interfaces com Bootstrap/JS.
+* **MTPREV** | *Estagiário de Suporte Técnico e Redes* (Dez 2024 – Abr 2025)
 * **L3A Instalações** | *Assistente Administrativo* (2019 - 2024)
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas GitHub
+<p align="center">
+  <img src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api?username=HarryDAssisG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Harry" height="180px" />
+  <img src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api/top-langs/?username=HarryDAssisG&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" height="180px" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harry&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harry&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=harry&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryDAssisG&theme=dracula" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
