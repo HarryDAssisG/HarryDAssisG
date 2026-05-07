@@ -35,8 +35,8 @@ Sou um Desenvolvedor Full Stack focado em criar soluções eficientes. Atualment
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Harry" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarryDAssisG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Harry" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDAssisG&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas" height="180px" />
 </p>
 
 <p align="center">
