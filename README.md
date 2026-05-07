@@ -36,14 +36,13 @@ Sou um Desenvolvedor Full Stack focado em criar soluções eficientes. Atualment
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarryDAssisG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Harry" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDAssisG&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" height="180px" />
-</p>
+## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryDAssisG&theme=dracula" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harry&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harry&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harry&theme=tokyonight)
 
 ---
 
